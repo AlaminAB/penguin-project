@@ -344,5 +344,59 @@ ul.social-icon li a i:hover {
     color: #FCB040;
 }
 
+.pt-100 {
+    padding-top: 100px;
+}
+
+.pb-100 {
+    padding-bottom: 100px;
+}
+
+
+/* About Us */
+
+.about-us-wrapper {
+    padding: 100px 0;
+}
+
+
+/* About Us */
+
+
+/* Donate Page */
+
+section.donate-content-wrap {
+    padding-top: 70px;
+}
+
+form.donate-form label {
+    color: #fff;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+.donate-form button.submit-btn {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    height: 40px;
+    line-height: 37px;
+    width: 220px;
+    border: none;
+    display: inline-block;
+    color: #fff;
+    font-weight: 500;
+    background-color: #FCB040;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+.donate-form button.submit-btn:hover {
+    color: #FCB040;
+    background-color: #fff;
+}
+
 
 /************** Template CSS End **************/
